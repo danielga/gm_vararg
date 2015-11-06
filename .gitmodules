@@ -1,0 +1,3 @@
+[submodule "lua-vararg"]
+	path = lua-vararg
+	url = https://github.com/moteus/lua-vararg.git
