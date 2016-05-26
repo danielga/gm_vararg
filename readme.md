@@ -13,4 +13,4 @@ This project requires [garrysmod_common][2], a framework to facilitate the creat
 
   [1]: https://github.com/moteus/lua-vararg
   [2]: http://www.tecgraf.puc-rio.br/~maia/lua/vararg
-  [3]: https://bitbucket.org/danielga/garrysmod_common
+  [3]: https://github.com/danielga/garrysmod_common
